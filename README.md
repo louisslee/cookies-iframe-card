@@ -8,7 +8,7 @@ The card could be useful if you want add some webpages in Home-assistant addons,
  
 The recommendation for install is to use HACS. 
 
-However, you can copy all files in `/dist` directory of this repo to `<config directory>/www/` path in your home-assistant instance directly, and registering them in HA frontend ([Instruction](https://developers.home-assistant.io/docs/frontend/custom-ui/registering-resources)).
+However, you can copy all files in `/dist` directory of this repo to `<config directory>/www/` path in your home-assistant instance directly, and register resource in HA frontend ([Instruction](https://developers.home-assistant.io/docs/frontend/custom-ui/registering-resources)).
 
 
 ## Usage
